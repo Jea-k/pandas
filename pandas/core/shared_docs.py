@@ -770,8 +770,8 @@ _shared_docs[
     4     b
     dtype: object
 
-        .. deprecated:: 2.1.0
-            The 'method' parameter and padding behavior are deprecated.
+    .. deprecated:: 2.1.0
+        The 'method' parameter and padding behavior are deprecated.
 
     On the other hand, if ``None`` is explicitly passed for ``value``, it will
     be respected:
@@ -784,8 +784,8 @@ _shared_docs[
     4    None
     dtype: object
 
-        .. versionchanged:: 1.4.0
-            Previously the explicit ``None`` was silently ignored.
+    .. versionchanged:: 1.4.0
+        Previously the explicit ``None`` was silently ignored.
 """
 
 _shared_docs[
